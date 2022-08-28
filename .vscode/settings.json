@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/b07115a1-5e61-4b27-97c2-8c23cfb51b82/microsoft.web/sites/subscriptions/b07115a1-5e61-4b27-97c2-8c23cfb51b82/resourceGroups/ResourceGroupAIML/providers/Microsoft.Web/sites/VishFlaskApp02",
+  "appService.deploySubpath": "."
+}
