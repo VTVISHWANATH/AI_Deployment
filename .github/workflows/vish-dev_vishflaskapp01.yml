@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'VishFlaskApp01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E00F68616CC46A98BE182DD215A945D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBC6FCE7F9E64594879DD6F83463934E }}
